@@ -1,6 +1,6 @@
 streamlit
 pandas
-re
-fitz
-sklearn
-os
+scikit-learn
+matplotlib
+seaborn
+PyMuPDF
